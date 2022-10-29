@@ -1,9 +1,9 @@
 # Praktikum 3
 # Luas dan Keliling Lingkaran
-<p1> Baris 1 : Memasukan Modul adalah sebuah file yang berisi sekumpulan fungsi–fungsi dan instruksi–instruksi program python, pemanggilan modul dijalankan dengan perintah import. Contoh : import math</p1> 
-<p2> Baris 3 : Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil).</p2> 
-<p3> Baris 5 dan 6 : Ketika kita sudah mendapat nilai phi dan jari-jari selanjutnya kita bisa menghitung luas dan keliling sesuai dengan rumus-nya masing-masing.</p3> 
-<p4> Baris 8 dan 9 : Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.</p4>
+## Baris 1 : Memasukan Modul adalah sebuah file yang berisi sekumpulan fungsi–fungsi dan instruksi–instruksi program python, pemanggilan modul dijalankan dengan perintah import. Contoh modul yang kita butuhkan : import math.
+## Baris 3 : Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil).
+## Baris 5 dan 6 : Ketika kita sudah mendapat nilai phi dan jari-jari selanjutnya kita bisa menghitung luas dan keliling sesuai dengan rumus-nya masing-masing.
+## Baris 8 dan 9 : Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
 
 ![image1.png](screenshot/luass.png)
 
