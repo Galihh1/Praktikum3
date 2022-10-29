@@ -24,4 +24,4 @@
 
 # Latihan ke tiga hasilnya
 
-![image1.png](screenshot/ss2.png
+![image3.png](screenshot/ss2.png
