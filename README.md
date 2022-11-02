@@ -6,6 +6,8 @@
 ## Baris 8 dan 9 : Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
 
 ![image1.png](screenshot/luass.png)
+# Flowchart dari program menghitung luas dan keliling lingkaran
+![image4.png](screenshot/flow.png)
 
 ## Latihan 2
  Menjalankan IDLE
